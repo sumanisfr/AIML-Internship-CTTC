@@ -88,4 +88,23 @@ Embark on an intensive **30-day expedition** that will transform you from an AI/
 
 ---
 
-## 📁 Repository Structure
+---
+
+## 🌐 Connect With Me
+
+| Platform | Link |
+|----------|------|
+| 💼 LinkedIn | [linkedin.com/in/sumankumarghosh](https://www.linkedin.com/in/suman-kumar-ghosh/) |
+| 💻 GitHub | [github.com/Sumanisfr](https://github.com/Sumanisfr) |
+| 📷 Instagram | [@suman_kumar_ghosh_77](https://instagram.com/suman_kumar_ghosh_77) |
+| 🎥 YouTube | [@suman900](https://www.youtube.com/@suman900.) |
+| 🧠 LeetCode | [leetcode.com/Sumankumarghosh](https://leetcode.com/Sumankumarghosh) |
+| 🧠 Blog | Coming Soon... 📝 |
+
+---
+
+## 💪 My Motto:
+> *“Discipline, Determination, Dedication.”*  
+> *"Code hard, sprint harder, dream bigger."*
+
+---
